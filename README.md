@@ -1,4 +1,4 @@
-# SSH-login-Telegram-notification
+# SSH-login-Telegram-notification [![Build Status](https://travis-ci.org/Punk--Rock/SSH-login-Telegram-notification.svg?branch=master)](https://travis-ci.org/Punk--Rock/SSH-login-Telegram-notification)
 
 ## About
 
